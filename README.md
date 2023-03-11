@@ -1,4 +1,4 @@
-# PolygonAreaCalculator
+# Polygon Area Calculator
 
 Fourth project of freeCodeCamp's course "Scientific Computing with Python".
 
